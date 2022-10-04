@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{D41757BA-BE89-45F7-93D2-1C7D5C9BDD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", "{7FD1244E-3761-4149-A0CC-913F21AFC8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csproj", "{863F890E-C0F7-4F9E-8FC0-599FD3B582F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice", "Invoice\Invoice.csproj", "{72C45011-7FF6-4745-9991-6E833EFF1A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41757BA-BE89-45F7-93D2-1C7D5C9BDD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41757BA-BE89-45F7-93D2-1C7D5C9BDD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41757BA-BE89-45F7-93D2-1C7D5C9BDD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41757BA-BE89-45F7-93D2-1C7D5C9BDD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD1244E-3761-4149-A0CC-913F21AFC8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD1244E-3761-4149-A0CC-913F21AFC8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD1244E-3761-4149-A0CC-913F21AFC8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD1244E-3761-4149-A0CC-913F21AFC8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863F890E-C0F7-4F9E-8FC0-599FD3B582F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863F890E-C0F7-4F9E-8FC0-599FD3B582F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863F890E-C0F7-4F9E-8FC0-599FD3B582F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863F890E-C0F7-4F9E-8FC0-599FD3B582F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C45011-7FF6-4745-9991-6E833EFF1A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C45011-7FF6-4745-9991-6E833EFF1A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C45011-7FF6-4745-9991-6E833EFF1A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C45011-7FF6-4745-9991-6E833EFF1A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4DF30A-2468-4EEA-81F0-F01073DEDDB3}
+	EndGlobalSection
+EndGlobal
